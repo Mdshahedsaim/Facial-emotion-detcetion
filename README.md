@@ -1,15 +1,15 @@
 # Facial-emotion-detcetion
 It's a ML project in my 7th semester.Where it can detect people's emotion by facial expressions. 
 # Dataset Distribution
-• Training Samples: 28,709 images across 6 emotion classes
-• Validation Samples: 7,178 images (20% split)
-• Test Samples: 3,589 images for final evaluation
-• Class Balance: Relatively uniform distribution across emotions
+- Training Samples: 28,709 images across 6 emotion classes
+- Validation Samples: 7,178 images (20% split)
+- Test Samples: 3,589 images for final evaluation
+- Class Balance: Relatively uniform distribution across emotions
 # Training Progress Visualization
-• Accuracy Plot: Shows improvement from 45% to 92.5% over 38 epochs
-• Loss Reduction: Demonstrates consistent decrease from 1.8 to 0.23
-• Validation Tracking: Parallel improvement in validation metrics
-• Checkpoint Saving: Best model saved at epoch 35 (87.3% val accuracy)
+-  Accuracy Plot: Shows improvement from 45% to 92.5% over 38 epochs
+- Loss Reduction: Demonstrates consistent decrease from 1.8 to 0.23
+- Validation Tracking: Parallel improvement in validation metrics
+-  Checkpoint Saving: Best model saved at epoch 35 (87.3% val accuracy)
 ## Error Analysis and Edge Cases
 # Challenging Scenarios Successfully Handled:
 1. Low Light Conditions: Histogram equalization improves detection
