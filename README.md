@@ -17,19 +17,19 @@ It's a ML project in my 7th semester.Where it can detect people's emotion by fac
 3. Multiple Face Scales: Adaptive detection parameters handle various sizes
 4. Rapid Expression Changes: Temporal smoothing provides stability
 Confidence Threshold Analysis:
-• High Confidence (>0.8): 73% of predictions
-• Medium Confidence (0.5-0.8): 21% of predictions
-• Low Confidence (<0.5): 6% marked as "Uncertain"
+- High Confidence (>0.8): 73% of predictions
+- Medium Confidence (0.5-0.8): 21% of predictions
+- Low Confidence (<0.5): 6% marked as "Uncertain"
 Future Plans and Possible Extensions
-• Advanced architectures, transfer learning, ensembles, and model compression.
-• Micro-expressions, emotion intensity, compound states, cultural adaptation.
-• GUI with configurable settings, recording, and export features.
-• Multi-modal integration: speech, body language, physiological signals, context.
-• Advanced analytics: emotion tracking, reports, anomaly detection, prediction
-• Platform expansion: mobile, web, API, cloud
-• Applications in healthcare, education, commercial, and research
-• Performance optimization: faster inference, edge deployment, hardware acceleration
+- Advanced architectures, transfer learning, ensembles, and model compression.
+- Micro-expressions, emotion intensity, compound states, cultural adaptation.
+- GUI with configurable settings, recording, and export features.
+- Multi-modal integration: speech, body language, physiological signals, context.
+- Advanced analytics: emotion tracking, reports, anomaly detection, prediction
+- Platform expansion: mobile, web, API, cloud
+- Applications in healthcare, education, commercial, and research
+- Performance optimization: faster inference, edge deployment, hardware acceleration
 Robustness across conditions, demographics, and accessibility Privacy, security, and 
 regulatory compliance.
-• Emerging technologies: AR/VR, brain-computer interfaces, quantum AI
-• Novel applications: gaming, automotive, social media, smart homes.
+- Emerging technologies: AR/VR, brain-computer interfaces, quantum AI
+- Novel applications: gaming, automotive, social media, smart homes.
